@@ -49,7 +49,7 @@ a { color: inherit; text-decoration: none; }
   letter-spacing: -0.02em;
   color: var(--navy);
 }
-.logo-icon { width: 32px; height: 32px; }
+.logo-icon { height: 32px; width: auto; }
 .logo span { color: var(--red); }
 .logo small {
   display: block;
@@ -276,7 +276,7 @@ label { font-weight: 600; font-size: 0.9rem; margin-bottom: -10px; }
   margin-bottom: 36px;
 }
 .footer-grid h4 { color: var(--white); margin-bottom: 16px; font-size: 0.95rem; display: flex; align-items: center; gap: 8px; }
-.footer-logo-icon { width: 22px; height: 22px; }
+.footer-logo-icon { height: 22px; width: auto; }
 .footer-grid ul { list-style: none; }
 .footer-grid li { margin-bottom: 10px; font-size: 0.9rem; }
 .footer-grid a:hover { color: var(--white); }
