@@ -33,10 +33,11 @@ def nav(active, depth=""):
 def header(active, depth=""):
     return f"""<header class="site-header">
   <a href="{depth}index.html" class="logo">
-    <img src="{depth}assets/images/logo/polardesignlab-logo.png" alt="" class="logo-icon">
+    <img src="{depth}assets/images/logo/polardesignlab-logo.png" alt="Polar DesignLab" class="logo-icon">
+    <div class="logo-sep"></div>
     <div class="logo-text">
-      <strong>Polar <span>DesignLab</span></strong>
-      <small>concept / design / validate</small>
+      <strong><span>design</span>lab</strong>
+      <small>concept&nbsp;&nbsp;&nbsp;design&nbsp;&nbsp;&nbsp;validate</small>
     </div>
   </a>
   <nav class="main-nav">
