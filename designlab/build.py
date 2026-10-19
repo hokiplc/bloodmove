@@ -57,7 +57,7 @@ def footer(depth=""):
           <img src="{depth}assets/images/logo/polardesignlab-logo.png" alt="" class="footer-logo-icon">
           Polar DesignLab
         </h4>
-        <p>Concept. Design. Validate. Precision thermal packaging solutions engineered and manufactured in the UK.</p>
+        <p>Concept. Design. Validate. A division of Polar Thermal Packaging Ltd — precision thermal packaging engineered and manufactured in the UK.</p>
       </div>
       <div>
         <h4>Capabilities</h4>
@@ -73,22 +73,24 @@ def footer(depth=""):
         <ul>
           <li><a href="{depth}portfolio.html">Product Portfolio</a></li>
           <li><a href="{depth}our-work.html">Our Work &amp; Clients</a></li>
+          <li><a href="{depth}start.html">Discuss Your Project</a></li>
         </ul>
       </div>
       <div>
-        <h4>Contact</h4>
+        <h4>Get in Touch</h4>
         <ul>
-          <li><a href="{depth}start.html">Start a Project</a></li>
-          <li><a href="mailto:design@polardesignlab.com">design@polardesignlab.com</a></li>
-          <li>United Kingdom</li>
+          <li>Polar House, Roman Way,<br>Crusader Park, Warminster,<br>Wiltshire, BA12 8SP</li>
+          <li><a href="tel:+441985214111">01985 214 111</a></li>
+          <li><a href="mailto:sales@polarthermal.com">sales@polarthermal.com</a></li>
         </ul>
       </div>
     </div>
     <div class="footer-bottom">
-      <span>&copy; 2024 Polar DesignLab Ltd. All rights reserved.</span>
+      <span>&copy; 2026 Polar Thermal Packaging Ltd. UK Registered Company No. 08251766.</span>
       <span>
-        <a href="#">Privacy Policy</a>
-        <a href="#">Terms</a>
+        <a href="https://polarthermal.com/privacy-policy">Privacy Policy</a>
+        <a href="https://polarthermal.com/terms-conditions">Terms &amp; Conditions</a>
+        <a href="https://polarthermal.com/modern-slavery-statement">Modern Slavery Statement</a>
       </span>
     </div>
   </div>
@@ -685,16 +687,20 @@ def build_start():
     <div class="contact-grid">
       <div>
         <div class="contact-card">
+          <h4>Phone</h4>
+          <a href="tel:+441985214111">01985 214 111</a>
+        </div>
+        <div class="contact-card">
           <h4>Email</h4>
-          <a href="mailto:design@polardesignlab.com">design@polardesignlab.com</a>
+          <a href="mailto:sales@polarthermal.com">sales@polarthermal.com</a>
+        </div>
+        <div class="contact-card">
+          <h4>Address</h4>
+          <p>Polar House, Roman Way,<br>Crusader Park, Warminster,<br>Wiltshire, BA12 8SP</p>
         </div>
         <div class="contact-card">
           <h4>What to Expect</h4>
           <p>After submitting your brief, an engineer will review your requirements and contact you within one working day to arrange a technical call.</p>
-        </div>
-        <div class="contact-card">
-          <h4>Location</h4>
-          <p>Polar DesignLab Ltd<br>United Kingdom</p>
         </div>
       </div>
       <div>
