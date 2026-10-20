@@ -150,6 +150,8 @@ def build_index():
         <img src="assets/images/hero/dotbox-hero.jpg" alt="Dotbox thermal packaging">
         <img src="assets/images/hero/polarpod-hero.jpg" alt="PolarPod thermal packaging">
         <img src="assets/images/hero/polar-pods-hero.jpg" alt="Polar Pods thermal packaging">
+        <img src="assets/images/hero/cook-hero.jpg" alt="Cook medical packaging">
+        <img src="assets/images/hero/ld3-hero.jpg" alt="LD3 thermal packaging">
       </div>
     </div>
   </div>
