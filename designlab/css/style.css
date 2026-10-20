@@ -47,10 +47,23 @@ a { color: inherit; text-decoration: none; }
   color: var(--navy);
   text-decoration: none;
 }
-.logo-icon { height: 44px; width: auto; }
+.logo-mark {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+.logo-icon { height: 40px; width: auto; }
+.logo-polar {
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  color: var(--navy);
+  text-align: center;
+}
 .logo-sep {
   width: 1px;
-  height: 44px;
+  height: 52px;
   background: #ccc;
   flex-shrink: 0;
 }
@@ -67,9 +80,13 @@ a { color: inherit; text-decoration: none; }
   display: block;
   font-size: 0.6rem;
   font-weight: 500;
-  letter-spacing: 0.18em;
   color: var(--grey);
-  margin-top: 3px;
+  margin-top: 4px;
+  letter-spacing: 0.04em;
+}
+.logo-text {
+  display: inline-flex;
+  flex-direction: column;
 }
 
 .main-nav { display: flex; align-items: center; gap: 32px; }
