@@ -81,6 +81,18 @@ def footer(depth=""):
         </ul>
       </div>
     </div>
+    <div class="accreditations-strip">
+      <p>Accreditations &amp; Memberships</p>
+      <div class="accreditations-logos">
+        <img src="{depth}assets/images/accreditations/mib-logo.jpg" alt="MIB">
+        <img src="{depth}assets/images/accreditations/coldchainfederaion-logo.png" alt="Cold Chain Federation">
+        <img src="{depth}assets/images/accreditations/joscar-logo.png" alt="JOSCAR">
+        <img src="{depth}assets/images/accreditations/nhs-approved-logo.png" alt="NHS Approved">
+        <img src="{depth}assets/images/accreditations/iso9001-logo.jpg" alt="ISO 9001">
+        <img src="{depth}assets/images/accreditations/iso14001-logo.png" alt="ISO 14001">
+        <img src="{depth}assets/images/accreditations/mod-bae-logo.png" alt="MOD/BAE">
+      </div>
+    </div>
     <div class="footer-bottom">
       <span>&copy; 2026 Polar Thermal Packaging Ltd. UK Registered Company No. 08251766.</span>
       <span>
@@ -131,6 +143,13 @@ def build_index():
       <div class="hero-actions">
         <a href="start.html" class="btn btn-primary">Discuss Your Project</a>
         <a href="portfolio.html" class="btn btn-outline" style="border-color:#fff;color:#fff;">View Portfolio</a>
+      </div>
+    </div>
+    <div class="hero-image">
+      <div class="hero-slideshow">
+        <img src="assets/images/hero/dotbox-hero.jpg" alt="Dotbox thermal packaging">
+        <img src="assets/images/hero/polarpod-hero.jpg" alt="PolarPod thermal packaging">
+        <img src="assets/images/hero/polar-pods-hero.jpg" alt="Polar Pods thermal packaging">
       </div>
     </div>
   </div>
