@@ -377,7 +377,9 @@ def build_uk_manufacturing():
         <a href="start.html" class="btn btn-primary">Discuss Your Volume</a>
       </div>
       <div>
-        <div class="card-media" style="height:360px;border-radius:12px;background:linear-gradient(135deg,#1a3a1a,#2e6b2e);display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.2rem;font-weight:700;">UK Manufacturing Facility</div>
+        <video autoplay muted loop playsinline style="width:100%;border-radius:12px;display:block;">
+          <source src="https://poladesignlab.com/assets/videos/polar-factory_lores.mp4" type="video/mp4">
+        </video>
       </div>
     </div>
   </div>
