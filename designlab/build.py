@@ -356,31 +356,29 @@ def build_uk_manufacturing():
         <a href="start.html" class="btn btn-primary">Discuss Your Project</a>
       </div>
     </div>
+    <div class="hero-image">
+      <video autoplay muted loop playsinline style="width:100%;border-radius:12px;display:block;box-shadow:0 20px 50px rgba(0,0,0,0.35);">
+        <source src="https://polardesignlab.com/assets/videos/polar-factory_lores.mp4" type="video/mp4">
+      </video>
+    </div>
   </div>
 </section>
 
 <section class="section">
   <div class="container">
-    <div class="service-hero">
-      <div>
-        <p class="eyebrow">Made in the UK</p>
-        <h2>Production Under One Roof</h2>
-        <p>By manufacturing in-house, Polar DesignLab maintains direct control of quality, lead times, and specification compliance — with no dependency on third-party manufacturers.</p>
-        <ul class="spec-list">
-          <li>Rigid and flexible insulation fabrication</li>
-          <li>PCM filling, sealing and integration</li>
-          <li>Vacuum insulation panel (VIP) handling</li>
-          <li>Outer carton and liner assembly</li>
-          <li>Labelling and outbound preparation</li>
-          <li>Full batch traceability records</li>
-        </ul>
-        <a href="start.html" class="btn btn-primary">Discuss Your Volume</a>
-      </div>
-      <div>
-        <video autoplay muted loop playsinline style="width:100%;border-radius:12px;display:block;">
-          <source src="https://poladesignlab.com/assets/videos/polar-factory_lores.mp4" type="video/mp4">
-        </video>
-      </div>
+    <div class="section-head" style="text-align:left;max-width:none;margin-bottom:32px;">
+      <p class="eyebrow">Made in the UK</p>
+      <h2>Production Under One Roof</h2>
+      <p>By manufacturing in-house, Polar DesignLab maintains direct control of quality, lead times, and specification compliance — with no dependency on third-party manufacturers.</p>
+      <ul class="spec-list">
+        <li>Rigid and flexible insulation fabrication</li>
+        <li>PCM filling, sealing and integration</li>
+        <li>Vacuum insulation panel (VIP) handling</li>
+        <li>Outer carton and liner assembly</li>
+        <li>Labelling and outbound preparation</li>
+        <li>Full batch traceability records</li>
+      </ul>
+      <a href="start.html" class="btn btn-primary">Discuss Your Volume</a>
     </div>
   </div>
 </section>
